@@ -2,22 +2,19 @@
   <MonoDevelop.Ide.ItemProperties.Cupcake PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.Cupcake.Utility FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Cupcake.DataAccess FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
-    <Files>
-      <File FileName="Cupcake.Utility/Class1.cs" Line="9" Column="1" />
-      <File FileName="Pages/Index.cshtml" Line="8" Column="38" />
-      <File FileName="Startup.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Cupcake" expanded="True">
             <Node name="Cupcake" expanded="True">
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Pages" expanded="True" />
             </Node>
             <Node name="Cupcake.DataAccess" expanded="True" />
             <Node name="Cupcake.Models" expanded="True" />
-            <Node name="Cupcake.Utility" expanded="True" />
+            <Node name="Cupcake.Utility" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
