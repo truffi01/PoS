@@ -20,4 +20,13 @@
     <PackageReference Include="Stripe.net" Version="34.11.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="Cupcake.Models\Cupcake.Models.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="Class1\Cupcake.DataAccess.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+      <ReferenceSourceTarget></ReferenceSourceTarget>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

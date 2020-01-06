@@ -1,27 +1,27 @@
 ﻿<Properties StartupConfiguration="{1F160D7F-AC4A-47E8-88B8-C590A42A02EA}|Default">
   <MonoDevelop.Ide.ItemProperties.Cupcake PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.Cupcake.Utility FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Cupcake.DataAccess FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cupcake.DataAccess/Class1.cs">
+    <Files>
+      <File FileName="Cupcake.Utility/Class1.cs" Line="8" Column="2" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Cupcake.DataAccess/Class1.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Cupcake" expanded="True">
-            <Node name="Cupcake" expanded="True">
-              <Node name="Pages" expanded="True" />
-            </Node>
-            <Node name="Cupcake.DataAccess" expanded="True" />
-            <Node name="Cupcake.Models" expanded="True" />
-            <Node name="Cupcake.Utility" expanded="True">
-              <Node name="Class1.cs" selected="True" />
-            </Node>
+            <Node name="Cupcake" expanded="True" />
+            <Node name="Cupcake.Models" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Cupcake.Models FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Class1/Cupcake.DataAccess.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
